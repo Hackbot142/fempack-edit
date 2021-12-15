@@ -1,5 +1,5 @@
 # fem+
-pack skidded from fempack by s0daa and brown zombie revamp and edited a bit
+pack skidded from fempack by s0daa and brown zombie revamp and edited
 
 preveiw 
 ![](/preveiw.png)
